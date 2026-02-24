@@ -35,3 +35,31 @@
 
 ---
 
+Структура проекта:
+Feed_message-app-analyst-simulator/
+│
+├── 1. Main metrics
+│   ├── queries.sql
+│   ├── Dashboard/
+|      ├── Marketing company analysis.png
+|      ├── Message app and news feed joint.png
+|      ├── News feed main.png
+|      ├── Weekly retention.png
+|   ├── README.md
+├──2. AB tests
+│   ├── AB_new_algorithm.ipynb
+│   ├── Monte_Carlo_simulation.ipynb
+|   ├── README.md
+├──3. Metric forecasting
+|   ├── Metric_forcasting.ipynb
+|   ├── README.md
+├──4. ETL pipline and automatization
+|   ├── etl_pipline.py
+|   ├── bot_feed.py
+|   ├── bot_feed and messages.py
+|   ├── README.md
+│
+├── example.env
+├── .gitignore
+└── README.md
+
